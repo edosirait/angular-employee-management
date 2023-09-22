@@ -3,6 +3,14 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
 I also using clarity framework for the feature. You can refer to this link https://clarity.design/documentation/get-started
 
+## How to running apps?
+
+1. clone or download this code
+2. open project in your IDE
+3. command "npm install"
+4. command "ng serve"
+5. Happy Coding!
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
