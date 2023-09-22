@@ -1,6 +1,7 @@
 # AngularEmployee
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
+I also using clarity framework for the feature. You can refer to this link https://clarity.design/documentation/get-started
 
 ## Development server
 
